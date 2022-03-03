@@ -1,0 +1,7 @@
+{
+  "alice": 4,
+  "nidhi": 10,
+  "cowboy": 10,
+  "dan": 20,
+  "sri": 80
+}
